@@ -1,11 +1,10 @@
 ---
 authors:
 - admin
-- 吳恩達
+
 categories:
-- Demo
-- 教程
-date: "2022-09-20T00:00:00Z"
+- research
+date: "2022-08-20T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -19,7 +18,6 @@ subtitle: "Welcome \U0001F44B The most reliable way to forecast the future is to
 summary: "Welcome \U0001F44B The most reliable way to forecast the future is to try to understand the present- **John Naisbitt**"
 tags:
 - Academic
-- 开源
 title: 'The New York Life Insurance Company: Adjusting the investment Portfolio to Market condition'
 ---
 
