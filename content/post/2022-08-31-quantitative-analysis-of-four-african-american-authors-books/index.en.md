@@ -1,7 +1,7 @@
 ---
 title: Quantitative Analysis of four African-American Authors' books
 author: Daniel Sineus
-date: '2022-08-31'
+date: '2022-08-25'
 slug: quantitative-analysis-of-four-african-american-authors-books
 categories: []
 tags: []
