@@ -3,7 +3,7 @@ title: "The Ikigai I envision"
 author: "Daniel SINEUS"
 categories:
 - Demo
-- 教程
+
 date: "2022-08-20T00:00:00Z"
 draft: false
 featured: false
@@ -20,7 +20,7 @@ summary: "Welcome \U0001F44B Ikigai originates from an unlikely place. The islan
 Yet, somehow, many decades later, the location of this bloodbath has become known for something else far better. Namely, in today’s Okinawa, there are more people over the age of 100 than in any other place on Earth (Garcia & Miralles, 2017). Not only do Okinawans live incredibly long and healthy lives, but their lives are replete with happiness, serenity, camaraderie, and plenty of activity"
 tags:
 - Academic
-- 开源
+
 output:
   bibliography: lib.bib
   nocite: "@*"

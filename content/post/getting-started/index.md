@@ -94,16 +94,4 @@ Disposition effect bias is the third bias. The disposition effect is the tendenc
 An error which can prevent the investment manager from selecting a quality tilt strategy can occur during financial analysis. For instance, Mr. Wendlandt highlights the case that NYLIC is not rewarded for its current exposure to credit risk. This is done by not only comparing current and historical BBB spreads (their respective means and standard deviations) but also comparing them to BBB historical default rates.  The error in this situation would be to ignore (1) historical data and (2) Not comparing historical default rates to BBB spreads. This may lead the investment manager to assume that the BBB securities are fine and there is no need for a quality tilt strategy.
 Another error would occur in processing. In this case it would be through poor oversight or not considering financial disclosures. The disclosures in this case would be either in financial statements and financial covenants for corporations or financial disclosures to securitized securities. For instance, Mr. Wendlandt states the underwriting standards had dropped significantly and that LBO contracts were covenant lite. Ignoring this information would make the investment manager assume that the risk levels are the same and there is no point for a quality tilt strategy.
 
-- **One-Click Deployment** - No servers. No databases. Only files.
 
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2022-present [Daniel Sineus](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
