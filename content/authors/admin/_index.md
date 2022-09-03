@@ -43,7 +43,7 @@ title: Daniel Sineus
 
 Hello, I am Daniel Sineus, a graduate student in Master of Science in Finance at Florida Atlantic University. I love both Finance and Data Analysis and Data Science. My passion is to combine Finance and Data Science to produce quality results for sound decision in the investment world or Finance. Or, it could be only for the sole purpose of learning. 
 
-I also have a bachelor’s degree in linguistics, I intend to link linguistics and NLP analysis. I have produced tutorials for the large audience and share with the large public some codes to assist in Github. My goal is to make data analysis & data science content in R, Python Excel available and empowering to learners. 
+I also have a bachelor’s degree in linguistics, I intend to link linguistics and NLP analysis. I have produced tutorials for the large audience and share with the large public some codes to assist in Github. My goal is to make data analysis & data science content in R, Python, Excel available and empowering to learners and students in Finance. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Daniel_Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
