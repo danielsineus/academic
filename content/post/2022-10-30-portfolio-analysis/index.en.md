@@ -1,6 +1,6 @@
 ---
-title: portfolio analysis
-author: ''
+title: Portfolio analysis
+author: 'Daniel Sineus'
 date: '2022-10-30'
 slug: portfolio-analysis
 categories: []
