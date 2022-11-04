@@ -11,7 +11,7 @@ authors: []
 lastmod: '2022-08-25T12:30:23-04:00'
 featured: no
 image:
-  caption: ''
+  caption: 'image credit: [**Evanston Public library**](featured)'
   focal_point: ''
   preview_only: no
 projects: []
