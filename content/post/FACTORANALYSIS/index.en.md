@@ -13,7 +13,7 @@ summary: ''
 authors: []
 external_link: ''
 image:
-  caption: ''
+  caption: "Image credit:[**unsplash**](featured)"
   focal_point: ''
   preview_only: no
 url_code: ''
@@ -31,7 +31,7 @@ This exercise has been thought to help anyone who like to create a **basic, quan
 # **INVESTMENT DECISION BASED ON FACTOR ANALYSIS**
 
 ---
-The purpose of this document is to bring a factor analysis toward a portfolio by using a great deal of securities reflecting the S&P500. Anyone will be able to see all the steps from begining to the end. One thing that you will need to expect is that there will not be theories about Quantitative Portfolio Management. You will discover more the routes taken to get the results.
+The purpose of this document is to bring a factor analysis toward a portfolio by using a great deal of securities reflecting the S&P500. Anyone will be able to see all the steps from begining to the end. One thing that you will need to expect is that there will not be theories about Quantitative Portfolio Management. You will discover the routes taken to get the results.
 
 
 ---
