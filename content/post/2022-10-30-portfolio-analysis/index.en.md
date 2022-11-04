@@ -10,7 +10,7 @@ summary: ''
 authors: []
 external_link: ''
 image:
-  caption: ''
+  caption: 'image credit: [**technology Advice](featured)'
   focal_point: ''
   preview_only: no
 url_code: ''
