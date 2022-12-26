@@ -24,8 +24,8 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
 
-  # Contact details (edit or remove options as required)
-  email: dsineus2020@fau.edu
+  Contact details (edit or remove options as required)
+  email: sinedaniel14@gmail.com
   #phone: 888 888 88 88
   address:
     #street: 1875 Calida Dr

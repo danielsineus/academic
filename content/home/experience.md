@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: DATA ANALYST - PART-TIME
-    company: SELF-PRACTICE
+    company: SELF-work
     company_url: ''
     company_logo: org-x
     location: Florida
@@ -43,7 +43,7 @@ experience:
     location: Florida
     date_start: '2022-01-04'
     date_end: ''
-    description: Pay vendor's invoices and keep vendors' accounts current.
+    description: Manage the accounts payable of the company.
 
 design:
   columns: '2'

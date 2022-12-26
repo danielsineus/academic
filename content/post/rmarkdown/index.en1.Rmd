@@ -37,7 +37,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# My Possible IKIGAI – My Ikigai-to-be
+# My version of ** Ikigai **
 
 You might have known the concept before, in case you have not. Let me do the honor to briefly mention where the word comes from and what it means. Ikigai originates from an unlikely place. The island of Okinawa was, after all, a place of extreme suffering during World War II, with over 200,000 casualties (Garcia & Miralles, 2017). The Battle of Okinawa was the most devastating land battle of the Pacific war (Tzeng, 2000).
 
