@@ -31,24 +31,18 @@ Considering hedging or pricing put options or call options regardless the models
 
 ## CONSTRUCTION OF THE PORTFOLIO AND THE ALLOCATION OF FUNDS
 
- 	Apple, Meta, and Tesla stock are currently trading on 11/26/2022 respectively at $148.11, 115.61 and 173.44 listed on Yahoo Finance at the time building our portfolio. In table 1, we have provided the preliminary characteristics of the portfolio in which we outline the volatility of the underlying assets, the strike, the calls, the puts, and the essential parameters that constitute the portfolio. Based on my predictions, I believe that prices will be soon declining most likely below $ 100. In this case, my call options will be out of the money, and therefore the portfolio will occur losses. I am bearish on directions regarding the stock price movements. To mitigate losses, I decided to short call and long put positions. Below presented these following positions:
+ Apple, Meta, and Tesla stock are currently trading on 11/26/2022 respectively at $148.11, 115.61 and 173.44 listed on Yahoo Finance at the time building our portfolio. In table 1, we have provided the preliminary characteristics of the portfolio in which we outline the volatility of the underlying assets, the strike, the calls, the puts, and the essential parameters that constitute the portfolio. Based on my predictions, I believe that prices will be soon declining most likely below $ 100. In this case, my call options will be out of the money, and therefore the portfolio will occur losses. I am bearish on directions regarding the stock price movements. 
+To mitigate losses, I decided to short call and long put positions. Below presented these following positions:
 •	Long 120 shares of Apple, Meta, and Tesla stocks;
 •	Long 100 puts with strike of 115 and 85; and 200 puts with strike of 80
 •	Short 100 calls with strike 100; and short 200 calls with a strike of 130 and 120
 
 
-contrat date	11/26/2022			CONSTRUCTION OF PORTFOLIO
+**contrat date	11/26/2022**	
 
-		 VOLATILITY 	INSTRUMENT	STRIKE	B/S PRICE	DELTA (per $ )	GAMMA (per $)	VEGA (%)	THETA per day	RHO (%)
-APPLE PRICE	 $  148.11 	31.17%	APPLE	CALL 	100	49.09	                 0.99637 	         0.00047 	       0.00770 	    (4.64500)	   0.22650 
-META PRICE	 $  115.61 	34.98%		PUT	115	0.3637	                (0.03759)	         0.00358 	       0.58190 	    (3.82200)	  (0.01360)
-TESLA PRICE	 $    173.44 	53.95%		 			 	 	 	 	 
-			META	CALL 	130	3.21	                 0.28834 	         0.01760 	      18.92700 	  (15.64930)	   6.92743 
-contract maturity	2/17/2023			PUT	85	0.187	                (0.02400)	         0.00290 	       3.14930 	    (2.27100)	  (0.68600)
-time to maturity	          0.23 			 			 	 	 	 	 
-risk free rate	4.17%		TESLA	CALL	120	55.768	                 0.94410 	         0.00250 	       9.37380 	  (15.49640)	 24.83410 
-CALL at the money	St>K			PUT	100	0.1816	                (0.01090)	         0.00060 	       2.38500 	    (2.71090)	  (0.47560)
-Table 1 - Construction of the options portfolio with 3 assets
+**CONSTRUCTION OF PORTFOLIO**
+
+![Construction of the portfolio](portfolio.jpg)
 
 
 ## THE THREE OPTIONS STRATEGIES CONSIDERED
@@ -137,41 +131,44 @@ Table 4- Bear Call Spread
 In a bear call spread, the loss for apple will $ 111 and the profit will be $ 1889. Buying the higher call option will reduce the overall premium collected to enter the trade but will define the position's risk to the width of the spread minus the credit received.
 INTERPRETATION OF THE PARAMETERS (DELTA, GAMMA, THETA)
 One of the parameters to firstly estimate is the delta of the calls or puts. The delta is evidently central to the pricing of options by replication. Calls gain value when the price of the underlying increases but puts lose value in this case. Our comment regarding the parameters of the portfolio is defined as such: delta of the portfolio is $ 4.23, that is to say, the portfolio will increase by $ 4.23 whenever there is a price change of $ 1 whether it comes from Apple, Tesla, Meta. It means also that the portfolio is positively sensitive to the price change of the underlying assets. 
-Position Greek of the Portfolio		SIMULATION	
-			if Apple Stock gets to be	Increase
-Value of the Portfolio 	 $          30,959.20 		 $                          170.00 	 $      21.89 
+
+
+	
+|	Position Greek of the Portfolio	//|           |if Apple Stock gets to be ($170)  ----| Increase by ($21.89)|
+|:--------------------|:-------------------:|:-------------------------:|-----------:|
+|Value of the Portfolio|$ 30,959.20|  170.00| 	 $      21.89 |
+|Delta of the Portfolio	|                    4.23| 		New Delta -Portfolio|	        92.51| 
+|Gamma of Portfolio|	     356.93 		|	change in the portfolio| 	  87,540.56 |
+|VEGA	          |(4,734.38)			|  | |
+|Theta of Portfolio|5,586.15 	|		
+|Rho of Portfolio	 |(6,561.08)		|   |  |
+
+
 				
-Delta of the Portfolio	                     4.23 		New Delta -Portfolio	        92.51 
- 				
-Gamma of Portfolio	                 356.93 			
-			change in the portfolio 	  87,540.56 
-VEGA	              (4,734.38)			
-				
-Theta of Portfolio	               5,586.15 			
-				
-Rho of Portfolio	              (6,561.08)			
-				
-GAMMA NEUTRAL			
-	short position of the calls	New Position of DELTA	Cumulative	
-Call with K=100	           752,066.03 	   (749,331.81)	                          2,734.23 	
-Call with K=130	             20,280.14 	         (352.70)	                        19,927.44 	
-Call with K =120	           142,772.22 	         (352.70)	                      142,419.51 	
+**GAMMA NEUTRAL**
+	|   |short position of the calls--|	New Position of DELTA--|	Cumulative	|
+	|:---------|:----------:|:-----------:|--------:|
+|Call with K=100	|           752,066.03 |	   (749,331.81)	   |     2,734.23    |
+Call with K=130	 |            20,280.14 |	         (352.70)	   |       19,927.44 |	
+Call with K =120  |	    142,772.22 	    |     (352.70)	       | 142,419.51 	   |
 Table 5 - Greek positions and simulation
 
-Gamma 
-
+**Gamma** -
 Damaradan and Das (2016, p. 412) presented Gamma as the parameter that measures the change in the option delta for a given change in the price of the underlying. The same authors advanced that the gamma can be used to estimate both the impact of large price movements on aggregate portfolio value, and the impact on the position delta of a change in the underlying price. So to speak, a large value of gamma, for instance, the gamma of the portfolio of $ 356.96 (see table 4) implies that the delta of the portfolio will change substantially even for a relatively small change in one of the underlying assets. Given only the Apple stock increases by $ 21.89 because of the new Apple price is $ 170, the new delta of the portfolio jumps from $ 4.23 to $ 92.51. Therefore, it also translates a huge change of $87,540.56 in the portfolio.
 
-Theta
+**Theta** -
 Position Theta is expressed as a negative number that indicates how much your account can lose or make daily due to time decay (Sundaram & Das, 2016, pp.145 - 427). The options in the portfolio, calls and puts, have negative values. The portfolio might lose value, at least $ 5,586.15, every day that passes. The portfolio through its calls and puts is negatively sensitive to time to maturity. 
 
-THE GAMMA NEUTRAL AND DELTA NEUTRAL 
+## THE GAMMA NEUTRAL AND DELTA NEUTRAL 
 A large value of gamma implies that the delta will change substantially even for a relatively small change in S, so the portfolio needs to be rebalanced to keep it delta-hedged. We short the calls options and delta-hedged, see the table below to see how much money for the short positions for each call. To delta-hedge, we can only increase the long positions in the underlying assets to a certain level in order to increase the delta of the portfolio in to benefit more from a price increase. The excel sheet will help simulate this one, increase the “N for the stock to 200, you will see the change in the portfolio delta.
-GAMMA NEUTRAL		
-	short position of the calls	New Position of DELTA	Cumulative
-Call with K=100	           752,066.03 	    (749,331.81)	                          2,734.23 
-Call with K=130	             20,280.14 	          (352.70)	                        19,927.44 
-Call with K =120	           142,772.22 	          (352.70)	                      142,419.51 
+
+**GAMMA NEUTRAL**
+
+|   |	short position of the calls--|	New Position of DELTA--|	Cumulative|
+|:---------|:-------------:|:-----------:|-------------:|
+|Call with K=100	|           752,066.03| 	    (749,331.81)|	    2,734.23 |
+|Call with K=130	|             20,280.14| 	    (352.70)	   |   19,927.44 |
+|Call with K =120	|           142,772.22 |     (352.70)	  |    142,419.51  |
 Table 6 - Gamma Neutral
 
 ## CONCLUSION A ND RECOMMENDATIONS
