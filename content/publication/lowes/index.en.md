@@ -62,7 +62,7 @@ economy because of the rising interest rate that have themselves might cool down
 sales in the home improvement industries. The inflation rate was up at an annualized 8.3% rate in
 August, the Bureau of Labor Statistics reported.
 To extrapolate, when people buy new homes, they typically buy a lot to go inside including
-appliances, curtains lighting fixtures, … In the article published by Wall Street1
+appliances, curtains lighting fixtures, … In the article published by Wall Street
 (Torry & Maloney,
 2022), businesses spending has slowed or fallen this year as many home buyers moved to the
 sidelines in the face of climbing interest rates. According to the Commerce Department, sales
@@ -71,7 +71,7 @@ stores. U.S existing home sales fell in July, the longest streak of declines in 
 They dropped 20.2% from a year ago. Although sales are down, prices for household furnishings
 and supplies -which include furniture, bedding, curtains and carpets -rose 1.1% in August from
 July and were 10.6% higher than a year before. Lowes is very big in carpets. In another article
-published by Wall Street by Cambon (2022), consumers expressed more pessimism about longrun economic prospects2
+published by Wall Street by Cambon (2022), consumers expressed more pessimism about longrun economic prospects
 . The analyst argues in her article that consumers are still battling highly
 elevated price pressures for things like food and housing, even as declining prices at the pump
 support modest improvement in consumer attitudes. In a nutshell, the economic downturn might
@@ -88,7 +88,9 @@ which measures the home improvement stores industry’s contribution to the US e
 expected to increase at an annualized rate of 3.6%. During the same period, US GDP is forecast to
 rise at an annualized rate of 1.8%. When industry growth falls relatively in line with US GDP
 growth, it typically means that the industry is in the mature phase of its life cycle.
-2.2- Lowe’s and Home Improvement Industry’s Analysis
+
+## 2.2- Lowe’s and Home Improvement Industry’s Analysis 
+
 In this section, we are going to consider the Porter’s Five Forces Analysis to shed lights on the
 competitive landscape and the factors affecting its sectors. This analysis will help measure and
 understand the company’s position based on these following forces: threat of new entrants, threat
@@ -103,7 +105,7 @@ Improvement Stores industry highly concentrated. Home Depot and Lowe’s have ta
 of economies of scale and opened stores during period, while many smaller industry players have
 closed their doors, according to the IBIS world report (Jonathan, 2022).
 ![figure2-Market Share of the Industry](figure2.jpg)
-Figure 3- Market Share of the Industry
+
 
 ## 2.2.2 - Threat of New Entrants
 
@@ -122,23 +124,28 @@ alternatives largely available at local stores or retailers like Walmart. These 
 products can also be customized and thus can be ordered from local brands without relying on
 Lowes’ or others, Since the product offered by other retailers and its rival brands are not much
 differentiated and mostly standardized, the threat of substitutes is high.
-2.2.3 - Bargaining Power of Suppliers
+
+## 2.2.3 - Bargaining Power of Suppliers
+
 IBIS world report (2022) that Bargaining power of suppliers is low. There are numerous suppliers
 and only two major players who acquire most of the market. Switching cost of suppliers is also
-6
 low and thus Lowe’s and Home Depot easily switch to other alternative vendors globally. Most of
 Lowes’s suppliers are use based and some of them are based in South Korea, Canada, China, etc.
-2.2.4 - Rivalry or Competition
+
+## 2.2.4 - Rivalry or Competition
+
 The industry experiences high levels of price competition while the industry is highly sensitive to
 price. From the report of IBS world, Jonathan (2022) mentions that this industry is expected to
 remain highly concentrated and competitive. This competition may decrease the industry growth
 with the number of companies that are expected to decrease at 0.4% to 3,540 companies over the
 five years to 2027.
-2.3 - P/E ratios of Competing Companies
+
+## 2.3 - P/E ratios of Competing Companies 
+
 The P/E ratio collected from yahoo finance for the competing companies show the stocks grow more in
 terms of price appreciation if they invest in Flooring & Décor and Tractor than Home Depot and Lowes. It
 also means that there is much more company growth for LL flooring and Flooring & Décor than the other
-companies in the table (Exhibit 1).
+companies in the table below.
 
 ## 2.4 Sales of the industry
 
@@ -147,11 +154,11 @@ Industry makes $250.6 Billion. Profit will be higher for the Depot Inc. and Lowe
 smaller industry players because the market share for the larger companies are capable of taking
 advantage of economies of scales. The data was supported by Burn (2022).
 ![figure3 - IBIS world, Home Improvement Sotres](figure3.jpg)
-Figure 4- IBIS World, Home improvement stores
-
 Most revenue come from the lumber and other building and structural materials that account for
 31.9% and the household appliance and kitchen goods and houseware that account for 30.7%.
-2.5 - Wages of the Industry
+
+## 2.5 - Wages of the Industry
+
 Wages account for an estimated 8.7% of industry revenue in 2022. Wages have remained relatively
 constant as a percentage of revenue due to operators’ ability to cut staff hours or switch to parttime labor during period demand.
 2.6- Purchases in the Home Improvement Industry
@@ -224,10 +231,8 @@ The analysis of Lowe’s financial position using past 10k forms, 10Q, financial
 analysis indicates a financially healthy company with a strong balance sheet, cash positions and
 income statement. Total sales revenue grew from 1.18% to 7.43% from respectively January 2019
 to January 2022. Amid pandemic, Lowe’s managed to have a positive gross margin from 0.15%
-Figure 5-Home Purchase per category of Population
-10
 to 8.40% respectively from January 2019 to January 2022. Its Net income has an upward trend
-from 2019 to 2022 (Exhibit 2). Net income margin (return on sales) represents 9% of the sales in
+from 2019 to 2022. Net income margin (return on sales) represents 9% of the sales in
 2021 while it was 3% in 2019. The cost of sales represents more than 6% of the revenues.
 The company has been more profitable on a yearly basis considering the three consecutive years
 (2019-2021). This is good news for the shareholders that they have more returns on their
@@ -235,7 +240,7 @@ investments. In the mist of pandemic, the company has grown more profitably, fro
 24.09%. The sustainable growth of the company even is even indicated by the return on assets.
 The company make more revenues and more profit margins relative to the three previous years.
 The company has been generated more sales over the assets used to conduct the essential
-operations (Exhibit 2.).
+operations.
 Lowe’s has taken nearly the same short-term debts to buy short term assets to generate more sales,
 pay employees and suppliers. The 2021 year has brought more sales revenue and more profit
 margin while the short-term debts remained the same.
@@ -248,7 +253,7 @@ understood because Lowes had to buy more inventory to make more sales revenue. L
 manages to keep debt expenses relatively low compared to the previous years. Lowes generated
 enough earnings before interest and taxes to cover its total debt. Its EBIT is 13.66 times the total
 debts it needs to pay. The Cash from operations is superior to the total debt. It means the company
-can easily pay its debts without selling its fixed assets (Exhibit 2).
+can easily pay its debts without selling its fixed assets.
 ![figure6](figure6.jpg)
 Lowe’s sent a good signal by managing the keep the selling, general and administrative expenses
 (SG&A) category lower. Such expense, second to sales of cost the biggest expenses, used to
@@ -259,7 +264,7 @@ Lowe’s has performed better than and above the home improvement industry. The 
 providers (investors and debtors) are better off investing in Lowes compared to other competitors
 except Home Depot. The return on equity 2409% in 2021 increased compared to the ROE in 2019.
 The EBITDA margin is better than all its competitors and the sector and its earnings before Interest
-and depreciations 22 times its debt, which is above the debts to EBITDA of the sector (Exhibit 3).
+and depreciations 22 times its debt, which is above the debts to EBITDA of the sector.
 ![figure6](figure6.jpg)
 
 ### 6 - Financial Projections
