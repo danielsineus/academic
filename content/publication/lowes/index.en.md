@@ -325,37 +325,51 @@ on yahoo finance on 10/02/2022.
 
 Boesel, M. (2022, May 16). Homeowners gained over $3.2 trillion in home equity in 2021. Retrieved
 September 2022, from CoreLogic: https://www.corelogic.com/intelligence/homeownersgained-over-3-2-trillion-in-home-equity-in-2021/
+
 Burns, J. (2022, July). Home Improvement Stores in the US. Retrieved September 2022, from IBISWorld
 Database: https://my.ibisworld.com/us/en/industry/44411/about
+
 CoreLogic. (2022, september 9). Homeowner Equity Insights. Retrieved September 2022, from
 CoreLogic®: https://www.corelogic.com/intelligence/homeowner-equity-insights/
+
 Easton, P. D., McAnally , M. L., & Sommers, G. A. (2021). Financial Statement : Analysis & Valuation. (6e,
 Ed.) Canada: Cambridge Business Publishers.
+
 Hunter, B. (2021, September 20). Forbes. Retrieved September 2022, from 3 Reasons Home
 Improvement Is The Fastest-Growing Retail Category, And What To Watch For:
 https://www.forbes.com/sites/bradhunter/2019/07/25/three-reasons-why-homeimprovement-is-the-fastest-growing-retail-category-and-what-to-watch-for/?sh=1deb0a4531d7
+
 Miao, H. (2022, September 6). Morgan Stanley Forecasts Decline in S&P 500 Earnings for 2023. Retrieved
 September 2022, from The Wall Street Journal: https://www.wsj.com/livecoverage/stockmarket-news-today-09-06-2022/card/morgan-stanley-cuts-s-p-500-earnings-forecastsUYud158LwoZcTBYmnQ6o
+
 Pinto, J., Henry, E., Robinson, T. R., & Stowe, J. D. (2015). Equity Asset Valuation. New Jersey: CFA
 Institute.
-21
+
 Pradhan, A. (2022, May 16). Millennials Lead the Pack for Home Purchases. Retrieved from CoreLogic:
 https://www.corelogic.com/intelligence/millennials-lead-the-pack-for-home-purchases/
+
 Pwc. (2017, February). The Long View: How will the global economic change in 2050. Retrieved
 September 2022, from PWC: https://www.pwc.com/gx/en/world-2050/assets/pwc-the-worldin-2050-full-report-feb-2017.pdf
+
 Standard & Poor's. (2022). Floor and Decor Holdings. Retrieved September 2022, from NetAdvantage
 database: https://www-capitaliqcom.eu1.proxy.openathens.net/CIQDotNet/company.aspx?companyId=270357747
+
 Standard & Poor's. (2022). Flooring & Decor. Retrieved September 2022, from NetAdvantage Database:
 https://www-capitaliqcom.eu1.proxy.openathens.net/CIQDotNet/company.aspx?companyId=270357747
+
 Standard & Poor's. (2022). Home Improvement Industry. Retrieved September 2022, from NetAdvantage
 database: https://www-capitaliqcom.eu1.proxy.openathens.net/CIQDotNet/Index/IndexWidgetTearsheet.aspx?companyId=267
 1458
+
 Standard & Poor's. (2022). NetAdvantage Database. Retrieved September 2022, from LL Floring
 Holdings: https://www-capitaliqcom.eu1.proxy.openathens.net/CIQDotNet/company.aspx?companyId=4373805
+
 Standard & Poor's. (2022). S&P 500 Index. Retrieved September 2022, from NetAdvantage database:
 https://www-capitaliqcom.eu1.proxy.openathens.net/CIQDotNet/company.aspx?companyId=278679
 22
+
 Standard & Poor's. (2022). The Home Depot, Inc. Retrieved September 2022, from S&P NetAdvantage
 Database: https://www-capitaliqcom.eu1.proxy.openathens.net/CIQDotNet/company.aspx?companyId=278679
+
 Strauss, L. C. (2022, July 15). The Future Looks Rough for S&P 500 Dividends. Retrieved from Barron's:
 https://www.barrons.com/articles/sp500-dividend-stocks-51657829818
