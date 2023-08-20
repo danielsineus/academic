@@ -26,7 +26,6 @@ image:
 projects: []
 ---
 
-# ****PAPER CHALLENGE****
 
 **The Impact of COVID-19 on the US Stock Market: The Sector that is most sensitive to COVID-19 spread**
 
@@ -59,7 +58,9 @@ Before conducting the regression analysis, it is assumed that the relationships 
 
 In this section, the results of the statistical and regression analyses conducted in Python will be presented. One table from the regression analysis will be included in the main text, while additional tables will be provided in the appendix for the sake of conciseness and the paper's length constraint. Figure 1 shows the S&P 500 market returns experienced a sharp decline at the onset of the pandemic. Expected returns for all sectors were lower than the previous two years' expectations.
 
+![return](output_15_1.png)
 Figure 1 - Trend for daily expected returns
+
 The regression model indicates that the majority of sectors' p-values are not significant for predicting performance based on COVID-19 cases. However, the energy, industrial, and materials sectors exhibit significant relationships with the model.
 
 Energy Sector:
@@ -72,6 +73,7 @@ Energy Sector:
 Industrial Sector:
 
 • An R-squared value suggests that approximately 89.9% of the variation in the Industrial sector's performance can be explained by the independent variables. The COVID-19 cases variable is also significant and negatively influences the sector's performance. The pandemic disrupted supply chains as fewer people were able to gather in production sites, leading to manufacturing, shipping, and logistics disruptions. The expected return for the industrial sector might decline by 51.75% with a 1% increase in COVID-19 cases (see regression table in the Appendix).
+
 
 Materials Sector:
 
