@@ -13,7 +13,7 @@ lastmod: '2024-01-14T16:13:48-05:00'
 featured: no
 draft: no
 image:
-  caption: ''
+  caption: 'image credit: [**technology Advice](featured)'
   focal_point: ''
   preview_only: no
 projects: []
